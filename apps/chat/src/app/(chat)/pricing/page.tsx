@@ -35,7 +35,7 @@ const prices: Price[] = [
       quarterly: 0,
       yearly: 0,
     },
-    features: ["每小时 10 次免费问答"],
+    features: ["每天 10 次免费问答"],
   },
   {
     name: "Pro",
