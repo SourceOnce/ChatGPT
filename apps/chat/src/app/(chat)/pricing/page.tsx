@@ -36,7 +36,7 @@ const prices: Price[] = [
       yearly: 0,
     },
     features: [
-     "无 GPT-3.5 问答", 
+     "无 GPT-3.5 问答,GPT-3.5可在主站 https://chat.one-ai.world 免费使用", k
      "试用 1 次 GPT-4 问答"
    ],
   },
@@ -48,7 +48,7 @@ const prices: Price[] = [
       yearly: 999,
     },
     features: [
-      "无 GPT-3.5 问答", 
+      "无 GPT-3.5 问答,GPT-3.5 可在主站 https://chat.one-ai.world 免费使用", 
       "40 次 GPT-4 问答",
    ],
   },
