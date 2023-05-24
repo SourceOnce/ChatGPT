@@ -44,7 +44,7 @@ const prices: Price[] = [
     name: "Pro",
     price: {
       monthly: 10,
-      quarterly: 999,
+      quarterly: 25,
       yearly: 999,
     },
     features: [
@@ -56,12 +56,12 @@ const prices: Price[] = [
     name: "Premium",
     price: {
       monthly: 20,
-      quarterly: 999,
+      quarterly: 50,
       yearly: 999,
     },
     features: [
       "无 GPT-3.5 问答,GPT-3.5 可在主站 https://chat.one-ai.world 免费使用",
-      " 50 次 GPT-4 问答"
+      " 每月50 次 GPT-4 问答"
     ],
   },
 ];
