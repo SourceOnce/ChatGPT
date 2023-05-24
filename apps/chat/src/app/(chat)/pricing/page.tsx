@@ -44,7 +44,7 @@ const prices: Price[] = [
       quarterly: 999,
       yearly: 999,
     },
-    features: ["无限 次 GPT-3.5 问答", "无 GPT-4 问答"],
+    features: ["无限 次 GPT-3.5 问答", "10次 GPT-4 问答"],
   },
   {
     name: "Premium",
@@ -55,7 +55,7 @@ const prices: Price[] = [
     },
     features: [
       "GPT-3.5 无限制问答",
-      "每月 100 次 GPT-4 问答",
+      " 100 次 GPT-4 问答",
     ],
   },
 ];
