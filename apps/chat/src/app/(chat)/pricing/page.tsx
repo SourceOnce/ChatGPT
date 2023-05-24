@@ -35,7 +35,10 @@ const prices: Price[] = [
       quarterly: 0,
       yearly: 0,
     },
-    features: ["每天 10 次免费问答", "无 GPT-4 问答"],
+    features: [
+     "无 GPT-3.5 问答", 
+     "试用 1 次 GPT-4 问答"
+   ],
   },
   {
     name: "Pro",
@@ -44,7 +47,10 @@ const prices: Price[] = [
       quarterly: 999,
       yearly: 999,
     },
-    features: ["无限 次 GPT-3.5 问答", "10次 GPT-4 问答"],
+    features: [
+      "无 GPT-3.5 问答", 
+      "40 次 GPT-4 问答",
+   ],
   },
   {
     name: "Premium",
@@ -54,8 +60,8 @@ const prices: Price[] = [
       yearly: 999,
     },
     features: [
-      "GPT-3.5 无限制问答",
-      " 100 次 GPT-4 问答",
+      "无 GPT-3.5 问答",
+      " 100 次 GPT-4 问答"
     ],
   },
 ];
